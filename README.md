@@ -1,6 +1,6 @@
 # Docker-Ansible
 
-Ce repository contient un projet de simulation d'infrastructure Ansible utilisant des conteneurs Docker, conçu spécifiquement pour ceux qui veullent decouvrir Ansible.
+Ce repo contient un projet de simulation d'infrastructure Ansible utilisant des conteneurs Docker, conçu spécifiquement pour ceux qui veullent decouvrir Ansible.
 
 Caractéristiques clés :
 
